@@ -1,0 +1,7 @@
+This is a work very much in progress: a todo list written with Backbone.js.
+
+A todo list seems like a simple enough thing to first attempt using Backbone with. It could also be a good opportunity for me to try out Flask and mondoDB or Redis.
+
+Step 1. Make a locally stored list.
+Step 2. Store data on a NoSQL DB and use Flask foran API.
+Step 3. Profit?
